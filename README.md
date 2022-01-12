@@ -26,5 +26,5 @@ Sidplayfp https://github.com/libsidplayfp/sidplayfp
 © 2010-2021 Leandro Nini  
 
 **Other packages used in SidplayerFP**  
-SQLitehttps://system.data.sqlite.org/index.html/doc/trunk/www/index.wiki  
+SQLite https://system.data.sqlite.org/index.html/doc/trunk/www/index.wiki  
 NtApiDotNet https://www.nuget.org/packages/NtApiDotNet  
